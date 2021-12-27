@@ -1,13 +1,13 @@
 {
   "data": [
-        {
+    {
       "name": "JABLE",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.jable.tv",
       "webOpen": true,
       "click": true
-    }
+    },
     {
       "name": "桔子TV",
       "pic": "https://tlgur.com/d/Gbk3j2yg",
